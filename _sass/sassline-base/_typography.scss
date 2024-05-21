@@ -102,10 +102,11 @@ a {
 
     li {
       font-feature-settings: 'kern', 'onum', 'liga';
-      margin-left: 2rem;
+      // margin-left: 2rem;
+      margin-left: 1rem;
 
       @include breakpoint(break-1) {
-        margin-left: 0;
+        // margin-left: 0;
       }
 
       ol, ul {
@@ -194,7 +195,7 @@ a {
     dt, dd {
       font-feature-settings: 'kern', 'onum', 'liga';
       margin-left: 2rem;
-
+      
       @include breakpoint(break-1) {
         margin-left: 0;
       }
@@ -299,7 +300,8 @@ a {
     }
 
     @include breakpoint(break-1) {
-      margin-left: -1rem;
+      // margin-left: -1rem;
+      margin-left: -0rem;
     }
   }
 
@@ -311,8 +313,10 @@ a {
     background-size: 100% 0.15rem;
     border: 0;
     margin: 0;
-    padding-bottom: 3rem;
-    padding-top: 3rem;
+    // padding-bottom: 3rem;
+    // padding-top: 3rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
   }
 
   // Code block.

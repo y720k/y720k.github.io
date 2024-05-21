@@ -1,22 +1,11 @@
 ---
-title: 
+title: ""
 feature_text: |
   ## Projekte
   Hier stelle ich zukünftig einige ausgewählte Projekte vor, welche in meiner Freizeit oder im Rahmen meines Studiums entstanden sind. 
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-
-<!-- 
----
-title: Projects
-# feature_text: | An overview of projects demo of Markdown and HTML includes
-# feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
-layout: page
-aside: true
----
--->
 
 #### Master Thesis
 ...

@@ -15,7 +15,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 Eine detaillierte Erklärung des Attention-Mechanismus in Transformern.
 
 #### Ein allgmeines ML-Projekt Template
-Eine Vorlage für ML-Projekte auf unter Nutzung von PyTorch Lightning und MLflow.
+Eine Vorlage für ML-Projekte unter Nutzung von PyTorch Lightning und MLflow.
 
 #### ML-unterstützte Dienstplanerstellung 
 KI-unterstützte Erstellung von Krankenhausdienstplänen auf Basis von Mitarbeiterwünschen.
